@@ -52,10 +52,27 @@
 * Ejemplo 5
 -------------------------------
 ### Como poner enlaces e imagenes
-
-
-   
+- Para poner enlaces se pones:
+  Pones el texto que quieras [ejemplo](https://duckduckgo.com).
   
+- Para hacer imagenes pones [ el nombre que quieras]  y dentro de los () pones ./ y el nombre de la foto.
+![gato](./IMG-20241019-WA0011.jpeg)
+-------------------------------
+### Poner código
+- Para indicar una palabra o frase como código, enciérrela entre comillas simples ( `).
+  At the command prompt, type `nano`.
+-------------------------------
+### Poner citas
+- Para crear una cita en bloque, agregue una >antes de un párrafo.
+> Ejemplo
+> 
+-------------------------------
+### Poner tablas
+- Las tablas se hacen poniendo |ejemplo|:
+  
+|ejemplo|ejemplo|
+|------|------|
+|ines  |ines  | 
   
 
 
