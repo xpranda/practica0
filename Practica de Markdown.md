@@ -32,8 +32,8 @@
 -------------------------------
 ### Poner cursiva
 - Para poner cursiva lo puedes poner de diferentes maneras que ocupan más de una palabra que pongas dentro de los asteriscos:
-      - Italicized text is the *cat's meow*.
-      - Italicized text is the _cat's meow_.
+  - Italicized text is the *cat's meow*.
+  - Italicized text is the _cat's meow_.
 - Para coger solo una palabra:
     - A *gato* meow
 -------------------------------
@@ -60,11 +60,19 @@
 -------------------------------
 ### Poner código
 - Para indicar una palabra o frase como código, enciérrela entre comillas simples ( `).
-  At the command prompt, type `nano`.
+Ejemplo: `hola`
+
+```
+int a=0;
+hola
+
+```
+
 -------------------------------
 ### Poner citas
 - Para crear una cita en bloque, agregue una >antes de un párrafo.
-> Ejemplo
+Ejemplo
+> Hola 
 > 
 -------------------------------
 ### Poner tablas
